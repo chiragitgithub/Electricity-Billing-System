@@ -12,7 +12,7 @@ public class message1 extends javax.swing.JFrame {
     /**
      * Creates new form message1
      */
-    public message() {
+    public message1() {
         initComponents();
     }
 
